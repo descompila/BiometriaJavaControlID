@@ -2,3 +2,6 @@
 Comunicação com leitor idBio da Control ID  
 
 Documentação do SDK: https://www.controlid.com.br/docs/idbio-pt/
+
+## Tela:
+![image](https://github.com/user-attachments/assets/045b392f-31f8-41ff-9025-818fcc50c2df)
